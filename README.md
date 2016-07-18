@@ -1,10 +1,9 @@
-![logo](logo.png)
+![the quick brown fox](fox.png)
 
 <hr/>
 
 ![sample](sample.png)
 
-![the quick brown fox](fox.png)
 
 ### haskell arrows
 
