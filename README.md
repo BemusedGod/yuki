@@ -1,6 +1,6 @@
 ![logo](logo.png)
 
-## a tiny, crisp bitmap font (now with haskell support)
+<hr/>
 
 ![sample](sample.png)
 
