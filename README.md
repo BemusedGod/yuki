@@ -4,6 +4,8 @@
 
 ![sample](sample.png)
 
+![the quick brown fox](fox.png)
+
 ### haskell arrows
 
 ![haskell looks nicer](haskell.png)
