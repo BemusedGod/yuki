@@ -1,12 +1,12 @@
 ![logo](logo.png)
 
-### a tiny, crisp bitmap font (now with haskell support)
+## a tiny, crisp bitmap font (now with haskell support)
 
 ![sample](sample.png)
 
-## haskell arrows
+### haskell arrows
 
-![haskell looks nicer](haskell-arrows.png)
+![haskell looks nicer](haskell.png)
 
 vim conceal + custom chars = nice haskell arrows.
 
