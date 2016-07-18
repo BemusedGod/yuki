@@ -1,7 +1,5 @@
 ![the quick brown fox](fox.png)
 
-<hr/>
-
 ![sample](sample.png)
 
 
