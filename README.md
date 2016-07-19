@@ -1,4 +1,6 @@
+<div style="text-align=center">
 ![the quick brown fox](fox.png)
+
 ![sample](sample.png)
 
 ### haskell arrows
@@ -14,3 +16,4 @@ au Filetype haskell source ~/.vim/ftplugin/haskell/haskell.vim
 ``
 
 in your .vimrc
+</div>
