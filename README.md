@@ -1,10 +1,10 @@
-![the quick brown fox](fox.png)
+![the quick brown fox](img/fox.png)
 
-![sample](sample.png)
+![sample](img/sample.png)
 
-### haskell arrows
+### programming ligatures
 
-![haskell looks nicer](haskell.png)
+![haskell looks nicer](img/haskell.png)
 
 vim conceal + custom chars = nice haskell arrows.
 
