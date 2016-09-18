@@ -4,9 +4,14 @@ fac 0 = 1
 fac n = n * fac (n - 1)
 
 fib :: Int -> Int
-fib 0 = 0
+fib 0 = 1
 fib 1 = 1
 fib n = fib (n - 1) + fib (n - 2)
+
+fib' :: Int -> Int
+fib' n
+  | n <= 1    = 1
+  | otherwise = fib' (n - 1) + fib' (n - 2)
 
 cube :: (Num a) => a -> a
 cube = a * a * a

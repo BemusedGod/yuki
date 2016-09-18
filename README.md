@@ -4,14 +4,14 @@
 
 ### programming ligatures
 
-![haskell looks nicer](img/haskell.png)
+![ligatures looks nicer](img/haskell.png)
 
-vim conceal + custom chars = nice haskell arrows.
+vim conceal + custom chars = nice ligatures arrows.
 
-drop the haskell-arrows.vim in ~/.vim/ftplugin/haskell/ and put
+drop `ligatures.vim` in ~/.vim/ftplugin/ and put
 
 ``
-au Filetype haskell source ~/.vim/ftplugin/haskell/haskell.vim
+TODO
 ``
 
 in your .vimrc
